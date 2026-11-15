@@ -24,3 +24,7 @@ android {
         checkReleaseBuilds false
     }
 }
+
+dependencies {
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+}
